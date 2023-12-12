@@ -14,8 +14,11 @@ This repository includes Arduino code for controlling a 7-segment display and a 
    - Enables users to observe the behavior of the 7-segment display in a simulated environment.
 
 ## Files in the Repository
-- **arduino_code.ino:**
-  - Arduino code for the 7-segment display.
+- **seven_segment_code:**
+  - Inside it you will find seven_segment_code.ino which is the Arduino code for the 7-segment display.
 
-- **proteus_simulation.pdsprj:**
+- **seven_segment.pdsprj:**
   - Proteus project file containing the simulation setup.
+
+- **seven_segment_code.ino.with_bootloader.hex:**
+  - The hex file from the arduino compile.
